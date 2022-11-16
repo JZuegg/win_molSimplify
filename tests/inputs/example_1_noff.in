@@ -1,0 +1,8 @@
+-core co
+-geometry oct
+-coord 6
+-lig tpp,imidazole,x
+-ligocc 1,1,1
+-ffoption no
+-spin 1
+-oxstate II

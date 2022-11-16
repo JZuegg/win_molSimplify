@@ -1,0 +1,29 @@
+name: mols_test
+channels:
+     - hjkgroup
+     - conda-forge
+     - anaconda
+     - pytorch
+     - psi4
+     - theochem
+     - defaults
+dependencies:
+     - python=3.7.12
+     - openbabel
+     - xtb
+     - tensorflow
+     - keras
+     - pytorch
+     - torchvision
+     - psi4
+     - pyqt
+     - pip
+     - qt
+     - scikit-learn
+     - pandas
+     - scipy
+     - gpy # in pip the spelling is GPy
+     - hyperopt
+     - pymongo
+     - iodata
+     - libffi
